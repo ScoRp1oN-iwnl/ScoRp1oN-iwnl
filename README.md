@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/avyuktsoni0731)
 <h1 align="center">Hi 👋, I'm Avyukt Soni</h1>
 <h3 align="center">I am a passionate 1st year Computer Engineering Student @ ZHCET, AMU.</h3>
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avyuktsoni0731&label=Profile%20views&color=008cb4&style=flat" alt="avyuktsoni0731" /> </p>
 
@@ -31,8 +33,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avyuktsoni0731&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="avyuktsoni0731" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avyuktsoni0731&show_icons=true&theme=radical&locale=en&layout=compact" alt="avyuktsoni0731" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avyuktsoni0731&show_icons=true&theme=synthwave&locale=en" alt="avyuktsoni0731" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avyuktsoni0731&show_icons=true&theme=radical&locale=en" alt="avyuktsoni0731" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avyuktsoni0731&theme=dark" alt="avyuktsoni0731" /></p>
