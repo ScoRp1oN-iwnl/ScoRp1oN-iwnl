@@ -143,12 +143,4 @@
 </p>
 <br>
 
-<p>&nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=avyuktsoni0731&show_icons=true&theme=radical&locale=en" alt="avyuktsoni0731" /></p>
 
-<br>
-
-<p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=avyuktsoni0731&theme=dark" alt="avyuktsoni0731" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avyuktsoni0731&show_icons=true&theme=radical&locale=en&layout=compact" alt="avyuktsoni0731" /></p>
